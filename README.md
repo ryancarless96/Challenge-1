@@ -16,15 +16,12 @@
 <li>THEN they fall in sequential order
 <li>WHEN I view the title element
 <li>THEN I find a concise, descriptive title
- 
 <p>Installation
-<li>
- N/A
+<li> N/A
  <p> Usage
-  <li>
-   
+  <li>  
  <p> Credits
-   <li>
+   <li> Ryan Carless
    
  <p> License
-   <li>
+   <li> Please refer to the LICENSE in the repo.
