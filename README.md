@@ -19,7 +19,7 @@
 <p>Installation
 <li> N/A
  <p> Usage
-  <li>  
+  <li>  To create a website, you will create a GitHub repository and then clone the starter code. For more information on how to clone the starter code, visit Module 1 in the Bootcamp website. 
  <p> Credits
    <li> Ryan Carless
    
